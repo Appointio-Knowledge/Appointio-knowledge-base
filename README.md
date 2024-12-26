@@ -1,5 +1,4 @@
 # Appointio-Knowledge-Base
-# Appointio-Knowledge-Base
 
 ## Table of Contents
 - [Introduction](#introduction)
